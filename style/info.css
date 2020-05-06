@@ -1,0 +1,58 @@
+.extra {
+    /* display: inline; */
+    margin: 0 auto;
+    width: 80%;
+    padding-bottom: 5px;
+}
+
+.extra a {
+    padding: 5px;
+    text-align: center;
+    height: 50px;
+    margin: 0 auto;
+    color: black;
+}
+
+.extra a:hover {
+    background-color: lightpink;
+}
+
+.sub {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.topText {
+    background-color: whitesmoke;
+    border-bottom: lightgoldenrodyellow 1px solid;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+.fail {
+    text-align: center;
+}
+
+.para {
+    overflow: hidden;
+}
+
+.centerdiv {
+    height: 400px;
+    width: 50%;
+    overflow: scroll;
+    float: left;
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
+
+.title {
+    text-align: center;
+}

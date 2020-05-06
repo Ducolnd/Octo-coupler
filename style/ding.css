@@ -1,0 +1,108 @@
+.box {
+    background-color: lightcyan;
+    width: 100%;
+    margin: 10px 0 100px 0;
+    border: 2px solid lightgray;
+}
+
+.topText {
+    background-color: whitesmoke;
+    border-bottom: lightgoldenrodyellow 1px solid;
+    margin-bottom: 35px;
+}
+
+.topText h1 {
+    text-align: center;
+}
+
+.dingLink {
+    color: black;
+    display: block;
+    text-align: center;
+}
+
+a {
+    color: black;
+
+}
+
+a:hover {
+    color: black;
+}
+
+.value {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.midtext {
+    padding-top: 5px;
+    display: block;
+    text-align: center;
+}
+
+.change {
+    height: 65px;
+    border-top: 1px black solid;
+}
+
+.change p {
+    font-size: 50px;
+    text-decoration: none;
+    line-height: 100%;
+    cursor: pointer;
+}
+
+.change p:hover {
+    color: rgb(136, 130, 130);
+    /* background-color: darkcyan; */
+    border-bottom: 2px lightpink solid;
+}
+
+.plus {
+    float: right;
+    padding-right: 10px;
+    width: 50px;
+    height: 100%;
+}
+
+.minus {
+    float: left;
+    width: 50px;
+    height: 100%;
+    padding-left: 10px;
+}
+
+.extra {
+    /* display: inline; */
+    margin: 0 auto;
+    width: 80%;
+    padding-bottom: 5px;
+}
+
+.extra a {
+    padding: 5px;
+    text-align: center;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.extra a:hover {
+    background-color: lightpink;
+}
+
+.sub {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+a h1 {
+    font-size: 50px;
+    color: darkgray;
+}
+
+.details {
+    width: fit-content;
+    margin: 0;
+    text-align: center;
+}
